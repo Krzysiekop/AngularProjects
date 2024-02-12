@@ -12,7 +12,8 @@ https://krzysiekop.github.io/CountriesApi/
 
 
 # Multi-step form:
-https://krzysiekop.github.io/multi-step-form/
+Multi page form: <br>
+Live demo: https://krzysiekop.github.io/multi-step-form/  <br>
 source code : https://github.com/Krzysiekop/multi-step-form
 
 # Forms 
